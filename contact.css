@@ -1,0 +1,23 @@
+.contact-section{
+    background-image: url(/download\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 720px;
+}
+.INPUT-BOX{
+    padding-top: 20px;
+    border: none;
+    padding-right: 420px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+.INPUT-BOX2{
+    padding-right: 420px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-top: 16px;
+}
+.input{
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+.guards-section{
+    background-color: white;
+    height: 720px;
+}
+.image{
+    height: 280px;
+    width: 300px;
+}
+.view-button{
+    padding: 18px;
+    padding-left: 54px;
+    padding-right: 54px;
+    text-decoration: none;
+    background-color: rgb(207, 207, 35);
+    color: white;
+    border: none;
+    margin-left: 550px;
+    margin-top: 120px;
+    line-height: 120px;
+}
+.view-button:hover{
+    background-color: white;
+    color: rgb(192, 192, 31);
+    border: 2px solid rgb(206, 206, 41);
+}
